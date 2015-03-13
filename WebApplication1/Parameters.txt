@@ -1,1 +1,1 @@
-﻿database=production
+﻿database=development
