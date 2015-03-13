@@ -1,1 +1,1 @@
-﻿database=paephprd-lgcc01
+﻿database=production
